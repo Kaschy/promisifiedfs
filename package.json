@@ -1,0 +1,12 @@
+{
+    "name": "promisifiedfs",
+    "version": "1.0.0",
+    "description": "Promise wrapper arround fs.",
+    "main": "promisifiedfs.js",
+    "scripts": {
+    },
+    "dependencies": {
+    },
+    "author": "Karsten Oldsen",
+    "license": "Apache-2.0",
+}
