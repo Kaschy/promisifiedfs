@@ -1,5 +1,5 @@
 {
-    "name": "promisifiedfs",
+    "name": "@kaschy/promisifiedfs",
     "version": "1.0.0",
     "description": "Promise wrapper arround fs.",
     "main": "promisifiedfs.js",
